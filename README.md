@@ -7,6 +7,8 @@
 * it will stay on page when refreshed
 * the background colors will change depending on past future and present
 ---
-![]()
+![screenshot](https://github.com/wissamk08/homework-05/blob/main/image/05.png?raw=true)
+
+
 
 
